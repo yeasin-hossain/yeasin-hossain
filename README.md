@@ -34,7 +34,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeasin-hossain&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 
-<div align="center">
+
 #### Contribution Graph
 [![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=yeasin-hossain&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
-</div>
+
