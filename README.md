@@ -6,10 +6,12 @@
 <a href="https://github.com/yeasin-hossain">
   <img align="left" alt="Yeasin's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/shantoxdp1/">
-  <img align="left" alt="Yeasin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://yeasinxdp.netlify.app">
+  <img align="left" alt="Yeasin's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" />
 </a>
-
+<a href="https://twitter.com/yeasinxdp">
+  <img align="left" alt="Yeasin's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <br/>
 <br/>
 
