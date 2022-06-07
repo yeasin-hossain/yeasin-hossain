@@ -31,10 +31,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin-hossain&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/yeasin-hossain">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeasin-hossain&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeasin-hossain&show_icons=true&theme=light&line_height=27" alt="Yeasin's github stats"/>
 </a>
 
 
 #### Contribution Graph
-[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=yeasin-hossain&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
+[![Yeasin Hossain's github activity graph](https://activity-graph.herokuapp.com/graph?username=yeasin-hossain&theme=react-dark)](https://github.com/yeasin-hossain/github-readme-activity-graph)
 
