@@ -29,6 +29,4 @@
 <code><img height="20" src="https://avatars.githubusercontent.com/u/7892489?s=48&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
 
-<a href="https://github.com/yeasin-hossain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin-hossain&theme=light&hide_langs_below=1" />
-</a>
+
